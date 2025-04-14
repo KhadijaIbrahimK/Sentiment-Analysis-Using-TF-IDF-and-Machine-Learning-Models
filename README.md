@@ -80,23 +80,3 @@ Perform cross-validation for better generalization.
 
 Add more feature engineering (e.g., POS tagging, sentiment lexicons).
 
-📁 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/sentiment-analysis-tfidf.git
-cd sentiment-analysis-tfidf
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the script:
-
-bash
-Copy
-Edit
-python sentiment_analysis.py
